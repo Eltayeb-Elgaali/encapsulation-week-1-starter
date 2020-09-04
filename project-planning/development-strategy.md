@@ -178,3 +178,10 @@ __As a user I want to be able show the text box to add new to do__
 #### Handler
 
 - Create show-input-todo  handler.
+
+## 6. Finishing Touches
+
+- developed on branch `finishing-touches`.
+- validate html and css.
+- update data script.
+- Do testing with different scenario.
