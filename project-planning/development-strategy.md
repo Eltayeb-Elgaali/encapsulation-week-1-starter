@@ -87,6 +87,11 @@ __As a user I want to be able to add to do's__
 
 - Create add-todo handler.
 
+### Other JS
+
+- Rewrite render-todo script
+- update app script
+
 ## 3. Toggle To Do
 
 __As a user I want to be able to set a specific todo as completed or vice versa__
@@ -116,7 +121,7 @@ __As a user I want to be able to set a specific todo as completed or vice versa_
 
 - Create toggle-completed handler.
 
-## 3. Remove To Do
+## 4. Remove To Do
 
 __As a user I want to be able delete a specific todo from the list__
 
