@@ -66,3 +66,8 @@ background: #F7F7F7;
     background-color: gray;
     text-decoration: line-through;
 }
+
+li:hover span {
+    width: 40px;
+    opacity: 1.0;
+}
