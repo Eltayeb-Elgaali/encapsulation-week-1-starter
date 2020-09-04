@@ -149,3 +149,32 @@ __As a user I want to be able delete a specific todo from the list__
 #### Handler
 
 - Create remove-todo  handler.
+
+## 5. Show Input To Do
+
+__As a user I want to be able show the text box to add new to do__
+
+- __When the user click on the plus icon the input text box will be shown__
+
+### REPO
+
+- This user story is developed on branch `show`.
+- This branch is merged to `master` branch after completion.
+
+### HTML
+
+- Add references to show-input-todo.js handler and listener.
+
+### CSS
+
+- Add some styling.
+
+### JS
+
+#### Listener
+
+- Create show-input-todo  listener.
+
+#### Handler
+
+- Create show-input-todo  handler.
