@@ -49,6 +49,8 @@ input {
     padding: 13px 13px 13px 20px;
     box-sizing: border-box;
     border: 3px solid rgba(0,0,0, 0);
+    opacity: 0;
+    display: none;
     
 }
 
@@ -71,3 +73,12 @@ li:hover span {
     width: 40px;
     opacity: 1.0;
 }
+
+.fa-plus {
+    float: right;
+}
+
+input.show {
+    opacity:1;
+    display: block;
+  }
