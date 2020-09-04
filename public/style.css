@@ -61,3 +61,8 @@ input:focus {
 li:nth-child(2n) {
 background: #F7F7F7;
 }
+
+.completed{
+    background-color: gray;
+    text-decoration: line-through;
+}
