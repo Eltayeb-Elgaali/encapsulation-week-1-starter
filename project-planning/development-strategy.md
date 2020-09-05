@@ -12,7 +12,7 @@
 
 ## WIREFRAME
 
-![wireframe]()
+![wireframe](../public/assets/images/wireframe.png)
 
 ---
 
